@@ -11,6 +11,7 @@
 [![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/)
 [![Google Gemini](https://img.shields.io/badge/Gemini_1.5-Flash_AI-4285F4?logo=google&logoColor=white)](https://ai.google.dev/)
 
+  Live Production URL: https://innovexa-ai.vercel.app
 ---
 
 ## 🌟 Overview
