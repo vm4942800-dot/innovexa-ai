@@ -1,0 +1,23 @@
+# INNOVEXA AI - Production Search Engine Directives
+User-agent: *
+Allow: /
+Allow: /about
+Allow: /for-schools
+Allow: /for-students
+Allow: /for-teachers
+Allow: /how-it-works
+Allow: /showcase
+Allow: /contact
+Allow: /faq
+Allow: /privacy
+Allow: /terms
+Allow: /cookie-policy
+Allow: /ai-disclaimer
+Allow: /student-privacy
+
+# Protect authenticated student dashboards and private review spaces from crawler indexing
+Disallow: /dashboard/
+Disallow: /api/
+Disallow: /admin/
+
+Sitemap: https://innovexa.ai/sitemap.xml
